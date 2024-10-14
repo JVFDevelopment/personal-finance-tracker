@@ -51,5 +51,5 @@ To run this project locally, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/finance-management-app.git
+git clone https://github.com/jvfdevelopment/finance-management-app.git
 
