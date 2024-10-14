@@ -30,6 +30,24 @@ This Personal Finance Management App helps users track their expenses, set budge
 - ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 - ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
+### Back-End Setup
+1. Navigate to the back-end folder:
+   ```bash
+   cd backend
+2. Install Dependencies
+   ```bash
+   npm install
+3. Create a .env file and add your environment variables:
+   ```bash
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+4. Start the server:
+   ```bash
+   node index.js
+
+
+
+
 ## Installation
 To run this project locally, follow these steps:
 
