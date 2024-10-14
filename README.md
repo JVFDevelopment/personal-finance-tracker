@@ -5,10 +5,8 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+- [Back End Setup](#back-end-setup)
+- [Installation](#installation)
 
 ## Introduction
 This Personal Finance Management App helps users track their expenses, set budgets, and manage savings goals. It provides a user-friendly interface for recording transactions and visualizing spending, making personal finance management easier and more efficient.
